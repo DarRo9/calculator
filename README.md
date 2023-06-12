@@ -1,9 +1,9 @@
 # calculator
 Python Calculator Using Tkinter
 
-Getting Started
-Clone the Repository on your Local Machine
-Run the .py file
+Getting Started:
+1. Clone the Repository on your Local Machine;
+2. Run the .py file.
 
 Built With:
 1. Python Programming Language;
